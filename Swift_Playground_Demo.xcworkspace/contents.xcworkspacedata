@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "LearningDemos">
+      <FileRef
+         location = "group:Closures.playground">
+      </FileRef>
+   </Group>
+</Workspace>
